@@ -1,2 +1,2 @@
-# BabyAPI_Djnago
+# BabyAPI_Django
 Understanding DRF
